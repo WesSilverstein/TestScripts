@@ -26,6 +26,9 @@ public class BasicStringMethodsTestNG {
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 	}
 
+	
+	//priority starts counting at "0"
+	
 	@Test(priority = 0)
 	public void stringLength() {
 		String clients = driver.findElement(By.xpath(".//*[@id='content']/div[2]/h3")).getText();
