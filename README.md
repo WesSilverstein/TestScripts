@@ -9,3 +9,8 @@ BasicStringMethodsTestNG.java - this set of tests was created to show junior QA 
 #Want to know more?
 
 Check out wessilverstein.com!
+
+
+#This is a test...
+
+From the update-readme branch.
