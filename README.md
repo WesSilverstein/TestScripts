@@ -8,4 +8,4 @@ BasicStringMethodsTestNG.java - this set of tests was created to show junior QA 
 
 #Want to know more?
 
-Check out wessilverstein.com!
+Check out qaresume.com!
