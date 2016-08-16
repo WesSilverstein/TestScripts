@@ -17,6 +17,7 @@ public class BasicStringMethodsTestNG {
 
 	@BeforeClass
 	public void beforeClass() {
+	//let's test in Firefox!
 		driver = new FirefoxDriver();
 		startURL = "http://www.wessilverstein.com";
 		driver.get(startURL);
